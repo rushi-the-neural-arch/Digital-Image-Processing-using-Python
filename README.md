@@ -1,3 +1,3 @@
 # Digital-Image-Processing-using-Python
 
-Digital Image Processing sample code using OpenCV and Scikit-Image.
+Digital Image Processing examples using OpenCV and Scikit-Image.
